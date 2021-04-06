@@ -1,3 +1,4 @@
+include ':login_module'
 include ':core'
 include ':app'
 rootProject.name = "Modularizacao Login"
